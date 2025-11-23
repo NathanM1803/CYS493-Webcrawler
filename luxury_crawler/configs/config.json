@@ -1,0 +1,8 @@
+{
+  "seed_urls": [
+    "https://example-luxurycars.com/inventory"
+  ],
+  "max_pages_per_domain": 10,
+  "crawl_delay_seconds": 1.0,
+  "user_agent": "CYS493-LuxuryCrawler/0.1 (+https://example.edu/secure-crawler)"
+}
